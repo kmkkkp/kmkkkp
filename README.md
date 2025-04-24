@@ -17,6 +17,11 @@
 - Javascript
 - C
 
+## 가치관과 강점
+- 밤을 잘 샌다, 노력파
+- 흔들리지 않는 편안함, 에이스침대
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kmkkkp&hide=jupyter%20notebook)
 
 ## 📜 History
