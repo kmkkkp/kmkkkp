@@ -17,7 +17,7 @@
 - Javascript
 - C
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kmkkkp)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kmkkkp&hide=jupyter%20notebook)
 
 ## 📜 History
 |회사|부서|직급|기간|
