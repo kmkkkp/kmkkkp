@@ -149,10 +149,44 @@
 ![jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 ![slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
+## 🪪 Cert
+
+<table>
+  <thead>
+    <tr>
+      <th>자격증명</th>
+      <th>#Cert</th>
+      <th>취득일</th>
+      <th>발급기관</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>SQLD</td>
+      <td>SQLD-054017287</td>
+      <td>2024.09.20</td>
+      <td>한국데이터산업진흥원</td>
+    </tr>
+    <tr>
+      <td>정보처리기사</td>
+      <td>24202100552A</td>
+      <td>2024.09.10</td>
+      <td>한국산업인력공단</td>
+    </tr>
+    <tr>
+      <td>AICE_BASIC</td>
+      <td>AICE_B24062803_20240628_B00017</td>
+      <td>2024.06.28</td>
+      <td>KT, 한국경제신문</td>
+    </tr>
+  </tbody>
+</table>
+
 
 ## ♣️ Fun Fact
 - 학생회 홍보국장(2023.01.01~2023.12.31)
 - 샘터야학 회장(2023.01.01~2023.12.31)
 - Google Developer Students Club 멤버(2023.06.01~2024.06.01)
+- 볼랜드 축구 동아리 회원(2019.03~2022.12)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kmkkkp)](https://solved.ac/kmkkkp/)
