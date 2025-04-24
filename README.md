@@ -16,7 +16,7 @@
 - 밤 새기 장인, 노력파 -> ~~기한에 급하게~~ 가 아니라, **미리** 밤새기
 - 추진력과 책임감의 균형
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kmkkkp&hide=jupyter%20notebook)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kmkkkp&hide=jupyter%20notebook&hide=flutter)
 
 ## 📜 History
 |회사|부서|직급|기간|
