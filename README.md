@@ -16,8 +16,36 @@
 - 밤 새기 장인, 노력파 -> ~~기한에 급하게~~ 가 아니라, **미리** 밤새기
 - 추진력과 책임감의 균형
 
-## Tech
+## 🛠️ Tech
 
+| Frontend
+
+![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+| Backend
+
+![pSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
+
+| Devops / Infra
+
+![ss](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![gcloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+| Collaboration / Workflow
+
+![notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
+![slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+
+| 이외
+
+- Oauth 2.0
 
 ## 📜 History
 
@@ -99,7 +127,6 @@
 </table>
 
 
-
 ## 🏆 수상경력
 <table>
   <thead>
@@ -131,3 +158,5 @@
 - 학생회 홍보국장(2023.01.01~2023.12.31)
 - 샘터야학 회장(2023.01.01~2023.12.31)
 - Google Developer Students Club 멤버(2023.06.01~2024.06.01)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kmkkkp)](https://solved.ac/kmkkkp/)
