@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there My name is kmkkkp 👋
+---
+- 🌱 프디아 6기 진행중
+- 
 
 <!--
 **kmkkkp/kmkkkp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
