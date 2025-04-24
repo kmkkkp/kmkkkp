@@ -14,7 +14,7 @@
 ## 🛞 Tech
 - Python
 - Javascript
-- 업데이트주웅
+- C
 
 ## 📜 History
 |회사|부서|직급|기간|
