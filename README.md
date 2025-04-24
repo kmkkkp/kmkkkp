@@ -13,7 +13,6 @@
 
 ## 💪 가치관과 강점
 - 밤 새기 장인, 노력파 -> ~~기한에 급하게~~ 가 아니라, **미리** 밤새기
-- 상황에도 흔들리지 않는 차분함
 - 추진력과 책임감의 균형
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kmkkkp&hide=jupyter%20notebook)
@@ -27,7 +26,7 @@
 |프로젝트명|프로젝트 기간|기술스택|근무처|
 |---|---|---|---|
 |경유지 최단경로 탐색시스템|2024.07.01~2024.10.01|Naver Cloud Platform, Shell script, Django, Javascript|경기신용보증재단|
-|AI chat bot|2024.07.01~2025.01.31|Naver Cloud Platform, Docker, Shell script, Python|경기신용보증재단|
+|사내망 AI chat bot|2024.07.01~2025.01.31|Naver Cloud Platform, Docker, Shell script, Python|경기신용보증재단|
 |쌍방향 봉사활동 매칭 플랫폼 관리자 콘솔|2024.03~2024.06|Docker, Node.js, Sequelize|자기주도개발|
 |응급차 사전 알림 시스템|2024.01.07~2024.02.21|Google Cloud Platform, Flutter|GSC 대회|
 |Gitstagram|2023.10.28~2023.10.29|React(Typescript)|아주톤|
