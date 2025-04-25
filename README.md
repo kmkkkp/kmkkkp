@@ -1,7 +1,8 @@
-# Hi, there! 👋 
-<img src = "https://i.namu.wiki/i/yiTFRsku4ghNaoaPDoqHpN05W2SZo7PIn9Z7ZQEXq8kb8EQPgRiGrR2h04hQqcmPCGYKuwxc-Xb3En0aknpGUQ.webp" height="100">
-
-# 동글동글, 사회에 공헌하는 개발자를 꿈꾸는 김민규입니다!
+# Hi, there! 👋
+### 동글동글, 사회에 공헌하는 개발자를 꿈꾸는 김민규입니다!
+<div align="center">
+<img src = "https://i.namu.wiki/i/yiTFRsku4ghNaoaPDoqHpN05W2SZo7PIn9Z7ZQEXq8kb8EQPgRiGrR2h04hQqcmPCGYKuwxc-Xb3En0aknpGUQ.webp" height="170">
+</div>
 
 ## 💁 Info
 - 🇰🇷 대한민국
@@ -9,7 +10,7 @@
 - 🌱 신한투자증권 프로디지털아카데미 6기 (2025.04~)
 - 🤙 연락:
   - ✉️ kmkkkp@naver.com
-  - 🛜 [Instagram](https://www.instagram.com/min_q9_/)
+  - <img src = "https://i.namu.wiki/i/PpCUHjc8PoAlAWoSip-m3KtgYMq7Ft1sI2BiCioMrclYCFdnjCEVKdPyXJ3yqXgHjgboqOp-8Q9z71WTisQy_A.svg" height="15"> [Instagram](https://www.instagram.com/min_q9_/)
 
 ## 💪 가치관과 강점
 - 주변의 사소한 문제를 찾아 먼저 해결하자
@@ -27,6 +28,7 @@
       <th>부서</th>
       <th>직급</th>
       <th>기간</th>
+      <th>담당업무</th>
     </tr>
   </thead>
   <tbody>
@@ -34,7 +36,8 @@
       <td>경기신용보증재단</td>
       <td>디지털금융부</td>
       <td>인턴</td>
-      <td>2024.07.01 ~ 2025.01.31</td>
+      <td>2024.07.01 ~ 2025.01.31(8개월)</td>
+      <td>담당업무</td>
     </tr>
   </tbody>
 </table>
@@ -184,6 +187,26 @@
   </tbody>
 </table>
 
+## 🗣️ Language
+
+<table>
+  <thead>
+    <tr>
+      <th>언어</th>
+      <th>자격증명</th>
+      <th>등급</th>
+      <th>발급기관</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>영어</td>
+      <td>OPIc</td>
+      <td>IH</td>
+      <td>ACTFL</td>
+    </tr>
+  </tbody>
+</table>
 
 ## ♣️ Fun Fact
 - 학생회 홍보국장(2023.01.01~2023.12.31)
