@@ -9,7 +9,7 @@
 - 🌱 신한투자증권 프로디지털아카데미 6기 (2025.04~)
 - 🤙 연락:
   - ✉️ kmkkkp@naver.com
-  - 🛜 [Instagram](https://www.instagram.com/min_q9_/)
+  - <img src = "https://i.namu.wiki/i/PpCUHjc8PoAlAWoSip-m3KtgYMq7Ft1sI2BiCioMrclYCFdnjCEVKdPyXJ3yqXgHjgboqOp-8Q9z71WTisQy_A.svg" height="15"> [Instagram](https://www.instagram.com/min_q9_/)
 
 ## 💪 가치관과 강점
 - 주변의 사소한 문제를 찾아 먼저 해결하자
