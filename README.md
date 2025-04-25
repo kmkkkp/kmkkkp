@@ -214,4 +214,3 @@
 - Google Developer Students Club 멤버(2023.06.01~2024.06.01)
 - 볼랜드 축구 동아리 회원(2019.03~2022.12)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kmkkkp)](https://solved.ac/kmkkkp/)
