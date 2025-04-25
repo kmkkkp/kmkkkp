@@ -74,7 +74,7 @@
       <td>자기주도개발</td>
     </tr>
     <tr>
-      <td>[응급차 사전 알림 시스템](https://github.com/Ajou-Soft-19/epas)</td>
+      <td><a href="https://github.com/Ajou-Soft-19/epas" target="_blank">응급차 사전 알림 시스템</a></td>
       <td>2024.01.07~2024.02.21</td>
       <td>Google Cloud Platform, Flutter</td>
       <td>GSC 대회</td>
