@@ -1,7 +1,8 @@
-# Hi, there! 👋 
-<img src = "https://i.namu.wiki/i/yiTFRsku4ghNaoaPDoqHpN05W2SZo7PIn9Z7ZQEXq8kb8EQPgRiGrR2h04hQqcmPCGYKuwxc-Xb3En0aknpGUQ.webp" height="100">
-
-# 동글동글, 사회에 공헌하는 개발자를 꿈꾸는 김민규입니다!
+# Hi, there! 👋
+### 동글동글, 사회에 공헌하는 개발자를 꿈꾸는 김민규입니다!
+<div align="center">
+<img src = "https://i.namu.wiki/i/yiTFRsku4ghNaoaPDoqHpN05W2SZo7PIn9Z7ZQEXq8kb8EQPgRiGrR2h04hQqcmPCGYKuwxc-Xb3En0aknpGUQ.webp" height="170">
+</div>
 
 ## 💁 Info
 - 🇰🇷 대한민국
