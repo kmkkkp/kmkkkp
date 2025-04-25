@@ -184,6 +184,26 @@
   </tbody>
 </table>
 
+## 🗣️ Language
+
+<table>
+  <thead>
+    <tr>
+      <th>언어</th>
+      <th>자격증명</th>
+      <th>등급</th>
+      <th>발급기관</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>영어</td>
+      <td>OPIc</td>
+      <td>IH</td>
+      <td>ACTFL</td>
+    </tr>
+  </tbody>
+</table>
 
 ## ♣️ Fun Fact
 - 학생회 홍보국장(2023.01.01~2023.12.31)
