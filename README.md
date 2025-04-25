@@ -80,7 +80,7 @@
       <td>GSC 대회</td>
     </tr>
     <tr>
-      <td>Gitstagram</td>
+      <td><a href="https://www.youtube.com/watch?v=DZgT-WxW9bA" target="_blank">Gitstagram</a></td>
       <td>2023.10.28~2023.10.29</td>
       <td>React(Typescript)</td>
       <td>아주톤</td>
@@ -92,7 +92,7 @@
       <td>자기주도개발</td>
     </tr>
     <tr>
-      <td>mdn 사이트 번역</td>
+      <td>mdn 사이트 번역(오픈소스 기여)</td>
       <td>2023.11.01~2023.11.30</td>
       <td>markdown, html</td>
       <td>자기주도</td>
