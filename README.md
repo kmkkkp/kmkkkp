@@ -36,8 +36,8 @@
       <td>경기신용보증재단</td>
       <td>디지털금융부</td>
       <td>인턴</td>
-      <td>2024.07.01 ~ 2025.01.31(8개월)</td>
-      <td>담당업무</td>
+      <td>2024.07.01 ~ 2025.01.31(7개월)</td>
+      <td>사내 업무 개선을 위한 서비스 개발</td>
     </tr>
   </tbody>
 </table>
@@ -74,7 +74,7 @@
       <td>자기주도개발</td>
     </tr>
     <tr>
-      <td>응급차 사전 알림 시스템</td>
+      <td>[응급차 사전 알림 시스템](https://github.com/Ajou-Soft-19/epas)</td>
       <td>2024.01.07~2024.02.21</td>
       <td>Google Cloud Platform, Flutter</td>
       <td>GSC 대회</td>
