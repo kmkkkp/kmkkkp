@@ -1,7 +1,7 @@
 # Hi, there! 👋
 ### 동글동글, 사회에 공헌하는 개발자를 꿈꾸는 김민규입니다!
 <div align="center">
-<img src = "https://i.namu.wiki/i/yiTFRsku4ghNaoaPDoqHpN05W2SZo7PIn9Z7ZQEXq8kb8EQPgRiGrR2h04hQqcmPCGYKuwxc-Xb3En0aknpGUQ.webp" height="170">
+<img src = "https://i.namu.wiki/i/zQVoZNcQYV05tA-duKOUa94nCM1HCWeWEJQlr6KONgJlgYlIvkej8sL3h_HSyzR2kJnsKXjNc854ou4a82K5JsiL0BbBkYR1UmD_e8EKhrKGd0gv8L_1E-rney49sA9AY-OBZ5Pnp2qoNUzcuyMcSg.svg" height="170">
 </div>
 
 ## 💁 Info
