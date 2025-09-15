@@ -7,7 +7,8 @@
 ## 💁 Info
 - 🇰🇷 대한민국
 - 🎓 사이버보안학과 전공 (2019.03~2025.08)
-- 🌱 신한투자증권 프로디지털아카데미 6기 (2025.04~)
+- 🌱 신한투자증권 프로디지털아카데미 6기 (2025.04~2025.08)
+- 한전KDN 해외사업부(2025.08~)
 - 🤙 연락:
   - ✉️ kmkkkp@naver.com
   - <img src = "https://i.namu.wiki/i/PpCUHjc8PoAlAWoSip-m3KtgYMq7Ft1sI2BiCioMrclYCFdnjCEVKdPyXJ3yqXgHjgboqOp-8Q9z71WTisQy_A.svg" height="15"> [Instagram](https://www.instagram.com/min_q9_/)
@@ -39,6 +40,13 @@
       <td>2024.07.01 ~ 2025.01.31(7개월)</td>
       <td>사내 업무 개선을 위한 서비스 개발</td>
     </tr>
+    <tr>
+      <td>한전 KDN</td>
+      <td>해외사업부</td>
+      <td>직원</td>
+      <td>2025.08.25 ~ </td>
+      <td>해외 전력 ICT 사업 탐색 수주</td>
+    </tr>
   </tbody>
 </table>
 
@@ -55,6 +63,17 @@
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td><a href="https://github.com/fomo-sol" target="_blank">FOMO, 한국 투자자를 위한 실시간 미국 시장 요약&알림 서비스</td>
+      <td>2025.07.01~2025.07.27</td>
+      <td>AWS, Express, Node.js, Javascript, MariaDB(자동화 스케쥴러(폴링), 한투증 API 및 OpenAI API 연동)</td>
+      <td>프디아 6기</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/neukkim-good" target="_blank">프디아를 위한 사과게임</td>
+      <td>2025.06.25~2025.06.30</td>
+      <td>AWS, Typescript(랭킹페이지, 소켓 환경 구축), Javascript</td>
+      <td>프디아 6기</td>
     <tr>
       <td>경유지 최단경로 탐색시스템</td>
       <td>2024.07.01~2024.10.01</td>
@@ -166,6 +185,11 @@
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td>ADsP</td>
+      <td>ADsP-045002547</td>
+      <td>2025.06.13</td>
+      <td>한국데이터산업진흥원</td>
     <tr>
       <td>SQLD</td>
       <td>SQLD-054017287</td>
